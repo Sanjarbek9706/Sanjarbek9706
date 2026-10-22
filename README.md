@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="840" alt="Illustration of Sanjarbek working on a MacBook Pro" />
+  <img src="./banner-macbook.svg" width="840" alt="Illustration of Sanjarbek working on a MacBook Pro" />
 
   <h1>Hi, I'm Sanjarbek 👋</h1>
   <h3>Software &amp; AI Engineer</h3>
