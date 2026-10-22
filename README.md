@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="840" alt="Illustration of Sanjarbek coding at a desk" />
+  <img src="./banner.svg" width="840" alt="Illustration of Sanjarbek working on a MacBook Pro" />
 
   <h1>Hi, I'm Sanjarbek 👋</h1>
   <h3>Software &amp; AI Engineer</h3>
@@ -73,4 +73,3 @@
 - AI foundations with NumPy and pandas
 - Computer vision with OpenCV
 - Full-stack applications with React, Next.js, Node.js, and MongoDB
-
